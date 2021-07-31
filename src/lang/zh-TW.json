@@ -1,28 +1,28 @@
 {
-  "IndexPage": "首頁",
-  "AboutPage": "關於",
-  "WorksPage": "作品",
-  "ContactPage": "聯繫",
-  "ToggleTheme": "切換 深色/預設 色彩主題",
-  "Contact-via": "使用以下連結聯繫我：",
-  "text-for-test": "EN",
-  "CloseButton": "關閉",
-  "LinkTo": "前往",
-  "routes": {
-    "IndexPage": "首頁"
-  },
-  "meta": {
-    "title": {
-      "IndexPage": "首頁",
-      "AboutPage": "關於",
-      "WorksPage": "作品",
-      "ContactPage": "與我聯繫"
+    "IndexPage": "首頁",
+    "AboutPage": "關於",
+    "WorksPage": "作品",
+    "ContactPage": "聯繫",
+    "ToggleTheme": "切換 深色/預設 色彩主題",
+    "Contact-via": "使用以下連結聯繫我：",
+    "text-for-test": "EN",
+    "CloseButton": "關閉",
+    "LinkTo": "前往",
+    "routes": {
+        "IndexPage": "首頁"
     },
-    "description": {
-      "IndexPage": "LCTOAN., 立基在台灣台北的網站應用開發者、自由工作者。",
-      "AboutPage": "LCTOAN., 立基在台灣台北的網站應用開發者、自由工作者。",
-      "WorksPage": "我製作過的所有重大專案(包含日勝生加賀屋溫泉案店、花蓮理想大地等等)，未來還有更多！",
-      "ContactPage": "讓我們一起做個漂亮的網站讓這世界變得更好吧 :D"
+    "meta": {
+        "title": {
+            "IndexPage": "首頁",
+            "AboutPage": "關於",
+            "WorksPage": "作品",
+            "ContactPage": "與我聯繫"
+        },
+        "description": {
+            "IndexPage": "LCTOAN., 立基在台灣台北的網站應用開發者、自由工作者。",
+            "AboutPage": "LCTOAN., 立基在台灣台北的網站應用開發者、自由工作者。",
+            "WorksPage": "我製作過的所有重大專案(包含日勝生加賀屋溫泉案店、花蓮理想大地等等)，未來還有更多！",
+            "ContactPage": "讓我們一起做個漂亮的網站讓這世界變得更好吧 :D"
+        }
     }
-  }
 }
