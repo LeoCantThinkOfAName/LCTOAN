@@ -1,28 +1,28 @@
 {
-  "IndexPage": "Home",
-  "AboutPage": "About",
-  "WorksPage": "Works",
-  "ContactPage": "Contact",
-  "ToggleTheme": "Toggle Dark/Default Theme",
-  "Contact-via": "Contact/Find me via:",
-  "text-for-test": "EN",
-  "CloseButton": "Close",
-  "LinkTo": "Link To",
-  "routes": {
-    "IndexPage": "Home!"
-  },
-  "meta": {
-    "title": {
-      "IndexPage": "Home",
-      "AboutPage": "About",
-      "WorksPage": "Wroks",
-      "ContactPage": "Contact"
+    "IndexPage": "Home",
+    "AboutPage": "About",
+    "WorksPage": "Works",
+    "ContactPage": "Contact",
+    "ToggleTheme": "Toggle Dark/Default Theme",
+    "Contact-via": "Contact/Find me via:",
+    "text-for-test": "EN",
+    "CloseButton": "Close",
+    "LinkTo": "Link To",
+    "routes": {
+        "IndexPage": "Home!"
     },
-    "description": {
-      "IndexPage": "LCTOAN., a web developer, freelancer, based in Taipei, Taiwan.",
-      "AboutPage": "LCTOAN., a web developer, freelancer, based in Taipei, Taiwan.",
-      "WorksPage": "All the major works I made in the past (includes Kagaya Hotel, Promise land Resort etc...), and there's more to come...",
-      "ContactPage": "Let's work together to make beautiful websites, and make the world a better place :D"
+    "meta": {
+        "title": {
+            "IndexPage": "Home",
+            "AboutPage": "About",
+            "WorksPage": "Wroks",
+            "ContactPage": "Contact"
+        },
+        "description": {
+            "IndexPage": "LCTOAN., a web developer, freelancer, based in Taipei, Taiwan.",
+            "AboutPage": "LCTOAN., a web developer, freelancer, based in Taipei, Taiwan.",
+            "WorksPage": "All the major works I made in the past (includes Kagaya Hotel, Promise land Resort etc…), and there's more to come…",
+            "ContactPage": "Let's work together to make beautiful websites, and make the world a better place :D"
+        }
     }
-  }
 }
