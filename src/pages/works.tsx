@@ -12,6 +12,7 @@ export const query = graphql`
   query Work {
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "contents/worksContent/" } }
+      sort: { fields: [frontmatter___date], order: DESC }
     ) {
       nodes {
         frontmatter {
